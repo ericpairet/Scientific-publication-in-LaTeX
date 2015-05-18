@@ -130,6 +130,9 @@ TODO
 
 * [ ] Create a better cleveref example
 * [ ] Some compilation erros for the nested acronyms
+<<<<<<< HEAD
 * [ ] Place a snapshot of each template linking to its *branch*
+=======
+>>>>>>> Added ACRO packages example, some stuff give error on compilation.
 * [ ] Task 1
 * [ ] Task 2
