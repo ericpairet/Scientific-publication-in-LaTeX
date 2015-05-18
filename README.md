@@ -113,7 +113,11 @@ The master branch should be stay clean. Every conceptual increment (or todo item
 * Automated compilation with preview (my choice, using *latexmk* and *xelatex*)
 
   ```
+<<<<<<< HEAD
   latexmk --xelatex -pvc --pdf main.tex
+=======
+  latexmk --xelatex -pvc --pdf master.tex
+>>>>>>> Updated README.md
   ```
 
 ### Important Note:
@@ -131,8 +135,12 @@ TODO
 * [ ] Create a better cleveref example
 * [ ] Some compilation erros for the nested acronyms
 <<<<<<< HEAD
+<<<<<<< HEAD
 * [ ] Place a snapshot of each template linking to its *branch*
 =======
 >>>>>>> Added ACRO packages example, some stuff give error on compilation.
+=======
+* [ ] Place a snapshot of each template linking to its *branch*
+>>>>>>> Updated README.md
 * [ ] Task 1
 * [ ] Task 2
